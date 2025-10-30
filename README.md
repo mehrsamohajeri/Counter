@@ -4,7 +4,7 @@
 
 https://github.com/Mehrsa-Mohajeri-Developer/Counter/assets/145048780/5ae14b3a-7c09-4322-add4-83e339a02b91
 
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Counter/)
+- 🔗 [Demo Project](https://mehrsamohajeri.github.io/Counter/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
